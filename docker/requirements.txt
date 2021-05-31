@@ -1,0 +1,14 @@
+gunicorn
+flask
+flask-admin
+flask-migrate
+flask-restful
+flask-restx
+flask-sqlalchemy
+flask_marshmallow
+marshmallow-sqlalchemy
+marshmallow
+sqlalchemy
+sqlalchemy_utils
+pymysql
+polyline
